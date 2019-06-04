@@ -1,0 +1,21 @@
+img {
+  height:100%;
+  width:100%;
+  border: 10px black solid;
+}
+
+h1{
+  color: blue;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
